@@ -1,0 +1,11 @@
+1 THIS IS WHATSUP CODE:
+2
+3 Author: Arulprasath
+4
+5 1. Profile page code
+6
+7 2. Chat screen code
+8
+9 3. Last seen code
+10
+11 4. Attachments (Image, Audio, video) code
