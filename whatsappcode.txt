@@ -10,3 +10,5 @@
 10
 11 4. Attachments (Image, Audio, video) code
 5. hiding last seen
+6. addin video call
+7. adding audio call
